@@ -1,3 +1,5 @@
+//Array implemenatation of Stack
+
 import java.util.*;
 public class MyStack {
     int size;
