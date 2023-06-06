@@ -1,4 +1,4 @@
-//Array implemenatation of Stack
+//Array implementation of Stack
 
 import java.util.*;
 public class MyStack {
